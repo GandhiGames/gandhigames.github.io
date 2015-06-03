@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
+title: "Gandhi Games"
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
