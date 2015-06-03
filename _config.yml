@@ -21,7 +21,7 @@ description: "A portfolio and blog for Gandhi Games."
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://gandhigames.github.io/feeling-responsive"
+url: "https://gandhigames.github.io"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -34,7 +34,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://gandhigames.github.io/feeling-responsive/images/"
+urlimg: "http://gandhigames.github.io/images/"
 
 
 # Logo size is 600x80 pixels
