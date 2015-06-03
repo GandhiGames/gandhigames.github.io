@@ -21,7 +21,7 @@ description: "A portfolio and blog for Gandhi Games."
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://gandhigames.github.io"
+url: "https://gandhigames.co.uk"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
