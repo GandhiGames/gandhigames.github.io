@@ -6,8 +6,11 @@
 #
 layout: frontpage
 title: "Gandhi Games"
-header:
-   image_fullwidth: "header_unsplash_12.jpg"
+
+#
+#header:
+#   image_fullwidth: "header_unsplash_12.jpg"
+
 widget-1:
     title: "Blog & Portfolio"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
