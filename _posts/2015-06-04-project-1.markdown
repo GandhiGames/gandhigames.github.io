@@ -1,9 +1,10 @@
 ---
 layout: default
-modal-id: 1
+modal-id: Super Jump Man
 date: 2014-04-18
 img: SJM.png
 alt: image-alt
+client: Middlesex University
 project-date: April 2014
 category: Android
 description: Super Jump Man
