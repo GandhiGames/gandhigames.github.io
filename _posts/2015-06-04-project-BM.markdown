@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-04-18
-img: sh.png
+img: bm.png
 alt: image-alt
 client: Middlesex University
 project-date: April 2014
