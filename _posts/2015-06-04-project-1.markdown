@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: Super Jump Man
+modal-id: 1
 date: 2014-04-18
 img: SJM.png
 alt: image-alt
 client: Middlesex University
 project-date: April 2014
 category: Android
-description: Super Jump Man
+description: Super Jump Man <br> Endless runner developed for Android with custom tile map and physics engine. 
 
 ---
