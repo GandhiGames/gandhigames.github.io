@@ -38,7 +38,7 @@ address:
   - line: London, UK
 
 # Credits content
-credits: 'Gandhi Games is a UK based web development studio, currently focused on creating quality Unity assets.'
+credits: 'Gandhi Games is a UK based games development studio, currently focused on creating high quality Unity assets.'
 
 # Build settings
 markdown: kramdown
