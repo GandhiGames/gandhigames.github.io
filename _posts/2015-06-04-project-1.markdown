@@ -7,7 +7,6 @@ alt: image-alt
 client: Middlesex University
 project-date: April 2014
 category: Android
-description: Super Jump Man <br> <br> Endless runner developed for Android with custom tile map and physics engine. <br> 
-<a href="/SJM" download> Download </a>
+description: Super Jump Man <br> <br> Endless runner developed for Android with custom tile map and physics engine. <br> <a href="/SJM" download> Download </a>
 
 ---
