@@ -6,7 +6,7 @@ img: ij_icon.png
 alt: image-alt
 client: Unity
 project-date: October 2015
-category: Unity, Starter Kit 
+category: Starter Kit, Infinite 
 language: C# 
 description: <br><br> <a href="http://www.assetstore.unity3d.com/en/#!/content/46497"> Unity Store </a>
 

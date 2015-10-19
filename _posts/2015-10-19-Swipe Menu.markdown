@@ -6,7 +6,7 @@ img: sm_icon.png
 alt: image-alt
 client: Unity
 project-date: September 2015
-category: Unity, UI
+category: UI, Mobile
 language: C# 
 description: <br><br> <a href="http://www.assetstore.unity3d.com/en/#!/content/45977"> Unity Store </a>
 

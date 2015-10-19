@@ -6,7 +6,7 @@ img: rssp_icon.png
 alt: image-alt
 client: Unity
 project-date: September 2015
-category: Unity 
+category: Scripting 
 language: C# 
 description: <br><br> <a href="http://www.assetstore.unity3d.com/en/#!/content/45124"> Unity Store </a>
 

@@ -6,7 +6,7 @@ img: tdgp_icon.png
 alt: image-alt
 client: Unity
 project-date: July 2015
-category: Unity, Sprites 
+category: Sprites, Scripted, Animation 
 language: C# 
 description: <br><br> <a href="http://www.assetstore.unity3d.com/#!/content/35277"> Unity Store </a>
 

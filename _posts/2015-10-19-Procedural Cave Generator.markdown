@@ -6,7 +6,7 @@ img: pcg_icon.png
 alt: image-alt
 client: Unity
 project-date: July 2015
-category: Unity, Procedural Generation 
+category: Procedural Generation, Pixel Art 
 language: C# 
 description: <br><br> <a href="http://www.assetstore.unity3d.com/en/#!/content/37572"> Unity Store </a>
 
