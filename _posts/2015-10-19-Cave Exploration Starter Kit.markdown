@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 7
 date: 2015-10-19
-img: ij_icon.png
+img: ce_icon.png
 alt: image-alt
 client: Unity
 project-date: October 2015
