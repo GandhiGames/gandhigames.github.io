@@ -2,7 +2,7 @@
 layout: default
 modal-id: 8
 date: 2015-10-19
-img: ce_icon.png
+img: pcg_icon.png
 alt: image-alt
 client: Unity
 project-date: October 2015
