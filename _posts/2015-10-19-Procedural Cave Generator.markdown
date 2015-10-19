@@ -5,8 +5,8 @@ date: 2015-10-19
 img: pcg_icon.png
 alt: image-alt
 client: Unity
-project-date: October 2015
-category: Unity 
+project-date: July 2015
+category: Unity, Procedural Generation 
 language: C# 
 description: <br><br> <a href="http://www.assetstore.unity3d.com/en/#!/content/37572"> Unity Store </a>
 
