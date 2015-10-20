@@ -9,5 +9,8 @@ project-date: June 2015
 category: Procedural Generation, Starter Kit
 language: C# 
 description: <br><br> <a href="http://www.assetstore.unity3d.com/en/#!/content/37158"> Unity Store </a>
+<strong>Procedurally Generated Cave Exploration Starter Kit</strong>
+<br> <br> 
+
 
 ---
